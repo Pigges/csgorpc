@@ -1,18 +1,18 @@
-# csgorpc
+# CSGORPC
+
+Get enhanced Discord playing status for CSGO.
 
 To install dependencies:
 
 ```bash
-bun install
+npm install
 ```
 
 To run:
 
 ```bash
-bun run index.js
+npm start
 ```
 
-This project was created using `bun init` in bun v0.4.0. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
-
-
+Information about this was found:
 https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Game_State_Integration
